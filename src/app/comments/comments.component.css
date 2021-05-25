@@ -1,0 +1,54 @@
+form {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+}
+
+.textarea {
+    width: 100%;
+}
+
+.name-field {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name {
+    width: 48%;
+}
+
+table {
+    width: 100%;
+    margin: 0px;
+    text-align: left;
+}
+
+.policy {
+    text-align: center;
+}
+
+td {
+    vertical-align: top;
+}
+
+.submitbutton {
+    width: 150px;
+    border: 1px solid rgba(0, 0, 0, .3);
+}
+
+.submit-div {
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    cursor: pointer;
+}
